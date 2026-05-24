@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "85qH2fPFNGY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kinta\\Downloads\\PROG6221\\chatbot\\chatbot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kinta\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\kinta\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\kinta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\kinta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.25\\microsoft.netcore.app.host.win-x64.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

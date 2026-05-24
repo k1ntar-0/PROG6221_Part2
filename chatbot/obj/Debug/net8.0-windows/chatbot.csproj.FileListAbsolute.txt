@@ -1,0 +1,15 @@
+C:\Users\kinta\OneDrive\Documents\GitHub\PROG6221\chatbot\bin\Debug\net8.0-windows\chatbot.exe
+C:\Users\kinta\OneDrive\Documents\GitHub\PROG6221\chatbot\bin\Debug\net8.0-windows\chatbot.deps.json
+C:\Users\kinta\OneDrive\Documents\GitHub\PROG6221\chatbot\bin\Debug\net8.0-windows\chatbot.runtimeconfig.json
+C:\Users\kinta\OneDrive\Documents\GitHub\PROG6221\chatbot\bin\Debug\net8.0-windows\chatbot.dll
+C:\Users\kinta\OneDrive\Documents\GitHub\PROG6221\chatbot\bin\Debug\net8.0-windows\chatbot.pdb
+C:\Users\kinta\OneDrive\Documents\GitHub\PROG6221\chatbot\obj\Debug\net8.0-windows\chatbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kinta\OneDrive\Documents\GitHub\PROG6221\chatbot\obj\Debug\net8.0-windows\chatbot.AssemblyInfoInputs.cache
+C:\Users\kinta\OneDrive\Documents\GitHub\PROG6221\chatbot\obj\Debug\net8.0-windows\chatbot.AssemblyInfo.cs
+C:\Users\kinta\OneDrive\Documents\GitHub\PROG6221\chatbot\obj\Debug\net8.0-windows\chatbot.csproj.CoreCompileInputs.cache
+C:\Users\kinta\OneDrive\Documents\GitHub\PROG6221\chatbot\obj\Debug\net8.0-windows\chatbot.sourcelink.json
+C:\Users\kinta\OneDrive\Documents\GitHub\PROG6221\chatbot\obj\Debug\net8.0-windows\chatbot.dll
+C:\Users\kinta\OneDrive\Documents\GitHub\PROG6221\chatbot\obj\Debug\net8.0-windows\refint\chatbot.dll
+C:\Users\kinta\OneDrive\Documents\GitHub\PROG6221\chatbot\obj\Debug\net8.0-windows\chatbot.pdb
+C:\Users\kinta\OneDrive\Documents\GitHub\PROG6221\chatbot\obj\Debug\net8.0-windows\chatbot.genruntimeconfig.cache
+C:\Users\kinta\OneDrive\Documents\GitHub\PROG6221\chatbot\obj\Debug\net8.0-windows\ref\chatbot.dll
